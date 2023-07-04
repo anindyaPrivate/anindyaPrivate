@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anindyaprivate&label=Profile%20views&color=0e75b6&style=flat" alt="anindyaprivate" /> </p>
 
-- 🌱 I’m currently learning **Frontend Developer**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/das](https://www.linkedin.com/in/das)
 
