@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/das](https://www.linkedin.com/in/das)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/dasanindya24/
 
 - 📫 How to reach me **my_official2023@gmail.com**
 
