@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/dasanindya24/
 
-- 📫 How to reach me **my_official2023@gmail.com**
+- 📫 How to reach me **my_official2023@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
