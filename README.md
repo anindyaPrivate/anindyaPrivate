@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anindyaprivate&" alt="anindyaprivate /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anindyaprivate&" alt="anindyaprivate" /></p>
+
