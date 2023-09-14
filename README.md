@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anindyaprivate&label=Profile%20views&color=0e75b6&style=flat" alt="anindyaprivate" /> </p>
 
-- 🌱 I’m currently learning **Data Science From IIT Roorke**
+- 🌱 I'm currently doing an executive postgraduate program in **Data Science From IIT Roorke**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/das](https://www.linkedin.com/in/das)
 
